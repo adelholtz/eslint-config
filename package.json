@@ -7,9 +7,9 @@
   "author": "benjamin.krammel <adelholtz@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "magic": "mv .eslintrc.json ../../.eslintrc.json"
+    "magic": "mv .eslintrc.json ../../../.eslintrc.json"
   },
-  "devDependencies": {
+  "dependencies": {
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-prettier": "^3.1.2",
