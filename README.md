@@ -1,3 +1,5 @@
+This repository is *deprecated*!
+
 # This is only intended for personal use in private projects!
 
 ## Setup
